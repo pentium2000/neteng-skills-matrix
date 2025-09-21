@@ -12,11 +12,12 @@
 
 ## 如何使用 (How to Use)
 
-本專案提供兩種格式，方便您在不同情境下使用：
+本專案提供三種格式，方便您在不同情境下使用：
 
 1.  **視覺化圖檔 (HTML):** 在 `network-skills-matrix-os.html` 檔案中，您可以找到一個專業美觀的視覺化圖表。您可以使用瀏覽器打開後，透過[線上工具](https://htmlcsstoimage.com/)轉換為圖片，非常適合用於簡報或分享。
 2.  **Google Sheets 格式:** `google-sheets-data.csv` (或其他 .txt 檔) 的內容可以直接複製並貼到 Google Sheets 中，方便您與團隊協作、篩選或客製化自己的版本。
-3.  **圖片格式:** ''
+3.  **圖片格式 (Image):** 在 `images/` 資料夾中，存放了最新版本的技能矩陣圖片 (`.png` 檔)，方便您直接下載並在社群、報告或文件中使用。
+
 ## 使用與擴展 (Usage & Extension)
 
 這份矩陣是我個人的經驗和想法，我會根據產業的發展，在必要時進行維護與更新。
@@ -30,4 +31,4 @@
 ## 作者 (Author)
 
 * **Patrick WH Chan**
-* **LinkedIn:** [www.linkedin.com/in/chan-wen-hsiang-55a16ba1/](https://www.linkedin.com/in/chan-wen-hsiang-55a16ba1/)
+* **LinkedIn:** [www.linkedin.com/in/chan-wen-hsiang-5a16ba1/](https://www.linkedin.com/in/chan-wen-hsiang-55a16ba1/)
